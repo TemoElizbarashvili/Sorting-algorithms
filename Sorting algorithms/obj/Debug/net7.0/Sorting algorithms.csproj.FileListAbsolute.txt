@@ -1,0 +1,15 @@
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\bin\Debug\net7.0\Sorting algorithms.exe
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\bin\Debug\net7.0\Sorting algorithms.deps.json
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\bin\Debug\net7.0\Sorting algorithms.runtimeconfig.json
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\bin\Debug\net7.0\Sorting algorithms.dll
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\bin\Debug\net7.0\Sorting algorithms.pdb
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\obj\Debug\net7.0\Sorting algorithms.csproj.AssemblyReference.cache
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\obj\Debug\net7.0\Sorting algorithms.GeneratedMSBuildEditorConfig.editorconfig
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\obj\Debug\net7.0\Sorting algorithms.AssemblyInfoInputs.cache
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\obj\Debug\net7.0\Sorting algorithms.AssemblyInfo.cs
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\obj\Debug\net7.0\Sorting algorithms.csproj.CoreCompileInputs.cache
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\obj\Debug\net7.0\Sorting algorithms.dll
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\obj\Debug\net7.0\refint\Sorting algorithms.dll
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\obj\Debug\net7.0\Sorting algorithms.pdb
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\obj\Debug\net7.0\Sorting algorithms.genruntimeconfig.cache
+E:\random shit\random projects\sorts\Sorting algorithms\Sorting algorithms\obj\Debug\net7.0\ref\Sorting algorithms.dll
